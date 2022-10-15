@@ -1,0 +1,25 @@
+#mainHeading{
+    color: rgb(192, 49, 49);
+    left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.subHeading{
+    font-size: 25px;
+}
+
+li{
+    font-size: 20px;
+    list-style: square;
+}
+
+p{
+    font-size: 25px;
+}
+
+body{
+    background-color: rgb(107, 201, 233);
+};
